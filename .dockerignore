@@ -1,0 +1,7 @@
+.venv
+frontend
+.git
+__pycache__
+storage/uploads/*
+storage/outputs/*
+*.bat

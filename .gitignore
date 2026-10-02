@@ -1,0 +1,10 @@
+.venv/
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+storage/uploads/*
+storage/outputs/*
+!storage/uploads/.gitkeep
+!storage/outputs/.gitkeep
